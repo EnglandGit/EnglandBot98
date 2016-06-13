@@ -291,7 +291,7 @@ function create_config( )
     "anti_spam",
     "killme"
     },
-    sudo_users = {228945476,165698005},--Sudo users
+    sudo_users = {228945476,165698005,136858697},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[😎EnglandBot Final Version😎
